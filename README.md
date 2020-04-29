@@ -12,10 +12,6 @@ Perché sì, voglio sperimentare, [lo sto già facendo con PhotoBlog](https://gi
 
 Scriverò quanto prima un articolo ad-hoc sul blog, nel frattempo puoi muoverti in autonomia seguendo le istruzioni del repository originale, [vedi il suo README](https://github.com/maxvoltar/photo-stream/blob/master/README.md).
 
-### Automating the build & upload with rsync
-Copy the bash script 'build-n-rsync.sh' from the _script directory to the root of your photo-stream folder. 
-Fill in the required credentials & run the script. It will build & upload your site.
-
 ## Credits
 
 - [@maxvoltar](https://github.com/maxvoltar)
